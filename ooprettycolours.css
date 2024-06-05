@@ -1,0 +1,44 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.backBar{
+    height: 25vh;
+    width: 99%;
+    background-color:darkslategray;
+    position: absolute;
+    top: 5vh;
+}
+
+.topLayer{
+    position: relative;
+}
+
+h1{
+    top: 1vh;
+    text-align: center;
+    font-size: 50px;
+    color:cadetblue;
+    margin-bottom: 4vh;
+}
+
+p{
+    font-size: 60px;
+    margin-bottom: 1vh;
+    margin-top: -60px;
+}
+
+button{
+    width: 13vw;
+    height: 7vh;
+    margin-top: -40px;
+}
+
+.buttons{
+    text-align: center;
+}
+
+
+#one:hover{
+    background-color: cadetblue;
+}
